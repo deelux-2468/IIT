@@ -1,2 +1,2 @@
-my forst commit
+my first commit
 Hello
